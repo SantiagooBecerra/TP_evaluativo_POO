@@ -1,9 +1,3 @@
-# =========================================
-# TP Evaluativo - Programación Orientada a Objetos
-# Tema: Cajero Automático / Cuenta Bancaria
-# Alumno: [Tu nombre aquí]
-# =========================================
-
 class CuentaBancaria:
     def __init__(self, titular, numero_cuenta, saldo_inicial=0):
         self.titular = titular
@@ -123,3 +117,4 @@ class CajeroAutomatico:
 if __name__ == "__main__":
     cajero = CajeroAutomatico()
     cajero.menu()
+
