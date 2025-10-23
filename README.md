@@ -1,5 +1,5 @@
 # TP Evaluativo - Programación Orientada a Objetos
-## Tema: Cajero Automático / Cuenta Bancaria
+## Abstracción representada: Cajero Automático / Cuenta Bancaria
 
 Este programa simula el funcionamiento básico de un cajero automático.
 Permite crear cuentas, depositar, retirar, consultar saldo y ver el historial de movimientos.
